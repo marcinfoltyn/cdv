@@ -37,3 +37,6 @@ y = 4 / 2
 # y = float(y)
 print(type(y))
 print(y)
+
+nazwisko = "kowalski"
+print(nazwisko)
